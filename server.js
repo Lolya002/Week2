@@ -56,4 +56,5 @@ app.get("/user/:id", (req, res) => {
 
 app.listen(port, () => {
     console.log(`Running http://localhost:${port}`)
+
 })
