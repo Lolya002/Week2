@@ -1,0 +1,29 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.genera {
+    background-color: aliceblue;
+    text-align: center;
+    padding: 4rem ;
+    color: black;
+
+}
+button{
+    padding: 10px;
+    margin: 20px;
+    margin-top: 4rem;
+    border-radius: 4px;
+    box-shadow: 1px  rgb(143, 139, 139);
+}
+.lists{
+    margin-left: 35%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+.lists li{
+    padding: 10px;
+}
